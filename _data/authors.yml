@@ -1,20 +1,10 @@
 # Authors
 
-billy_rick:
-  name: Billy Rick
-  web: http://thewhip.com
-  email: billy@rick.com
-  bio: "What do you want, jewels? I am a very extravagant man."
-  avatar: bio-photo-2.jpg
-  twitter: extravagantman
+xavier_detant:
+  name: Xavier Detant
+  web: http://faustxvi.github.io
+  email: xavier.detant@gmail.com
+  bio: ""
+  avatar: mcgyver.jpg
   google:
-    plus: BillyRick
-
-cornelius_fiddlebone:
-  name: Cornelius Fiddlebone
-  email: cornelius@thewhip.com
-  bio: "I ordered what?"
-  avatar: bio-photo.jpg
-  twitter: rhymeswithsackit
-  google:
-    plus: CorneliusFiddlebone
+    plus: XavierDetant
