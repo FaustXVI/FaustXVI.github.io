@@ -8,7 +8,9 @@ title: Derniers articles
     <li>
         <article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time
                 datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_long_string }}
-        </time></span></a></article>
+        </time></span></a>
+        <p>{{ post.excerpt }}</p>
+        </article>
     </li>
     {% endfor %}
 </ul>
